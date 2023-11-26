@@ -1,4 +1,4 @@
-### Exploratory Data Analysis (EDA), Financial Indicator Development, and Price Estimation for NSE Nifty 50 Stock Market Data Using Machine Learning
+# Exploratory Data Analysis (EDA), Financial Indicator Development, and Price Estimation for NSE Nifty 50 Stock Market Data Using Machine Learning
 
 As a part of our minor project required for the fifth semester, we are using minute-to-minute varied data from the Nifty 50 and developing seven technical indicators, namely:
  
