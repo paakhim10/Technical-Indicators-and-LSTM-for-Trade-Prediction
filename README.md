@@ -10,4 +10,4 @@ As a part of our minor project required for the fifth semester, we are using min
 6. Upper and Lower Bollinger Bands
 7. Average True Range
 
-With the help of these, we are further estimating the entry price, the exit price, and the stop loss price for the particular stock data analyzed using Long Short-Term Memory Recurrent Neural Networks, which will guide the user whether to short buy, long buy, or square-off their dealings.
+With the help of these, we are further estimating the exit price, the stop loss, and hence the risk-to-reward ratio for the particular stock data analyzed using Long Short-Term Memory Recurrent Neural Networks, which will guide the user whether to short buy, long buy, or square-off their dealings.
